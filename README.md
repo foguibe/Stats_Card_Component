@@ -41,5 +41,3 @@ The `styles.css` file contains CSS rules that style the web page, demonstrating 
 ### Acknowledgments
 
 This project was created as a challenge from [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-card-component-UTTySxOrvf) and was coded by [Fortune Oguibe](https://github.com/foguibe).
-
-This README summarizes the skills demonstrated in this project, emphasizing the developer's expertise in HTML and CSS and their ability to create responsive, visually appealing web pages.
